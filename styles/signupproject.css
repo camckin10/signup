@@ -1,0 +1,76 @@
+/*logo brought down more to log in box*/
+/* Already have an account?Log in line needs to be centerd*/
+/*Anything else? Ask Anna!  */
+
+body {
+  background-color:#0099ff;
+}
+
+img {
+  height:35px;
+  margin-left:488px;
+  margin-top:18px;
+}
+
+
+.sign-up-block {
+  width:400px;
+  height:400px;
+  background-color: white;
+  padding-left: 40px;
+  padding-right:40px;
+  color: white;
+  font-size: 16px;
+  font-family: 'Roboto', helvetica, sans-serif;
+  margin-left:370px;
+  margin-top:24px;
+}
+
+h1 {
+  color:slategray;
+  margin-left:103px;
+  font-weight:lighter;
+}
+
+legend {
+  padding:15px;
+  color:black;
+}
+
+button {
+  margin-top:30px;
+  background-color:#33cc33;
+  font:25px sans-serif;
+  color:white;
+
+}
+
+button:hover {
+  background-color:#006600;
+}
+
+input, button {
+  width:320px;
+  height:55px;
+  border:2px
+  padding :15px;
+
+}
+
+.link {
+  color:blue
+  margin-left:369px;
+}
+
+
+.log-in-link {
+  color:white;
+  margin-left:430px;
+  font:18px sans-serif;
+}
+
+
+p {
+  color:black;
+  margin-left:85px;
+}
